@@ -1,0 +1,8 @@
+resume\LoginController.class
+resume\MyFavPage.class
+com\mycompany\resumewebnetbeans\JakartaRestConfiguration.class
+com\mycompany\resumewebnetbeans\resources\JakartaEE10Resource.class
+resume\SecurityFilter.class
+util\ControllerUtil.class
+resume\UserRequestUtil.class
+resume\UserController.class

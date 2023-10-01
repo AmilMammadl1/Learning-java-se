@@ -1,0 +1,4 @@
+bean\MyProducer.class
+bean\MyConsumer.class
+com\mycompany\threadd\Threadd.class
+bean\Base.class
